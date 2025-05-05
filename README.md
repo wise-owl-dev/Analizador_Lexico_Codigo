@@ -6,14 +6,14 @@ Este proyecto implementa un analizador léxico con interfaz gráfica que permite
 
 ## 📋 Tabla de Contenidos
 
-- [Descripción](#descripción)
+- [Descripción](#Descripción)
 - [Estructura del Proyecto](#estructura-del-proyecto)
 - [Características](#características)
 - [Requisitos](#requisitos)
 - [Instalación y Ejecución](#instalación-y-ejecución)
 - [Uso](#uso)
 - [Tipos de Tokens](#tipos-de-tokens)
-- [Ejemplos](#ejemplos)
+- [Ejemplos](#Ejemplos)
 
 ## 📝 Descripción
 
