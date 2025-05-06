@@ -4,17 +4,6 @@ Este proyecto implementa un analizador léxico con interfaz gráfica que permite
 - Java: Analizador completo para código Java
 - Robot: Analizador especializado para un lenguaje de control de brazos robóticos
 
-## 📋 Tabla de Contenidos
-
-- [Descripción](#Descripción)
-- [Estructura del Proyecto](#estructura-del-proyecto)
-- [Características](#características)
-- [Requisitos](#requisitos)
-- [Instalación y Ejecución](#instalación-y-ejecución)
-- [Uso](#uso)
-- [Tipos de Tokens](#tipos-de-tokens)
-- [Ejemplos](#Ejemplos)
-
 ## 📝 Descripción
 
 El analizador léxico es una herramienta educativa que analiza el texto de entrada y lo descompone en "tokens" o unidades léxicas como palabras clave, identificadores, operadores, etc. Este proyecto implementa dos analizadores específicos:
@@ -134,9 +123,9 @@ r1.finalizar()
 
 ## 👥 Autores
 
-Delgado Molina Karla Rocío
-Martínez Martínez Jesús Alexander
-Roque Hernández Diego Misael
+- Delgado Molina Karla Rocío
+- Martínez Martínez Jesús Alexander
+- Roque Hernández Diego Misael
 
 ## 🛠️ Entorno de Desarrollo
 
